@@ -1,0 +1,13 @@
+
+{
+  "name": "pw-ai-factory",
+  "version": "1.0.0",
+  "description": "PW AI FACTORY",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
